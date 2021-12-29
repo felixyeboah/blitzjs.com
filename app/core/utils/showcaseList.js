@@ -69,5 +69,10 @@ const showcaseList = [
     title: "Topo.ink",
     URL: "https://www.topo.ink/",
   },
+   {
+    thumbnail: "/showcase/topodotink-map-posters.png",
+    title: "Culture Managament Group",
+    URL: "https://www.curatedbyculture.com",
+  },
 ]
 export default showcaseList
